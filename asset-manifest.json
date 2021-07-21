@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/github.io/mandala-test/static/css/main.a617e044.chunk.css",
+    "main.js": "/github.io/mandala-test/static/js/main.a5c1ff66.chunk.js",
+    "main.js.map": "/github.io/mandala-test/static/js/main.a5c1ff66.chunk.js.map",
+    "runtime-main.js": "/github.io/mandala-test/static/js/runtime-main.c46db90c.js",
+    "runtime-main.js.map": "/github.io/mandala-test/static/js/runtime-main.c46db90c.js.map",
+    "static/js/2.8626103d.chunk.js": "/github.io/mandala-test/static/js/2.8626103d.chunk.js",
+    "static/js/2.8626103d.chunk.js.map": "/github.io/mandala-test/static/js/2.8626103d.chunk.js.map",
+    "static/js/3.68cfabf0.chunk.js": "/github.io/mandala-test/static/js/3.68cfabf0.chunk.js",
+    "static/js/3.68cfabf0.chunk.js.map": "/github.io/mandala-test/static/js/3.68cfabf0.chunk.js.map",
+    "index.html": "/github.io/mandala-test/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/github.io/mandala-test/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.8626103d.chunk.js.LICENSE.txt": "/github.io/mandala-test/static/js/2.8626103d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/github.io/mandala-test/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c46db90c.js",
+    "static/js/2.8626103d.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.a5c1ff66.chunk.js"
+  ]
+}
